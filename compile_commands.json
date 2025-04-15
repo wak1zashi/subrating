@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/main.cc.o -c /home/user/code/subrating/src/main.cc",
+  "file": "/home/user/code/subrating/src/main.cc",
+  "output": "CMakeFiles/substats.dir/src/main.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/models/subscriber.cc.o -c /home/user/code/subrating/src/models/subscriber.cc",
+  "file": "/home/user/code/subrating/src/models/subscriber.cc",
+  "output": "CMakeFiles/substats.dir/src/models/subscriber.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/services/subscriber_manager.cc.o -c /home/user/code/subrating/src/services/subscriber_manager.cc",
+  "file": "/home/user/code/subrating/src/services/subscriber_manager.cc",
+  "output": "CMakeFiles/substats.dir/src/services/subscriber_manager.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/services/convert.cc.o -c /home/user/code/subrating/src/services/convert.cc",
+  "file": "/home/user/code/subrating/src/services/convert.cc",
+  "output": "CMakeFiles/substats.dir/src/services/convert.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/ui/header_window.cc.o -c /home/user/code/subrating/src/ui/header_window.cc",
+  "file": "/home/user/code/subrating/src/ui/header_window.cc",
+  "output": "CMakeFiles/substats.dir/src/ui/header_window.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/ui/layout_manager.cc.o -c /home/user/code/subrating/src/ui/layout_manager.cc",
+  "file": "/home/user/code/subrating/src/ui/layout_manager.cc",
+  "output": "CMakeFiles/substats.dir/src/ui/layout_manager.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/ui/logo_window.cc.o -c /home/user/code/subrating/src/ui/logo_window.cc",
+  "file": "/home/user/code/subrating/src/ui/logo_window.cc",
+  "output": "CMakeFiles/substats.dir/src/ui/logo_window.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/ui/ui.cc.o -c /home/user/code/subrating/src/ui/ui.cc",
+  "file": "/home/user/code/subrating/src/ui/ui.cc",
+  "output": "CMakeFiles/substats.dir/src/ui/ui.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/ui/window.cc.o -c /home/user/code/subrating/src/ui/window.cc",
+  "file": "/home/user/code/subrating/src/ui/window.cc",
+  "output": "CMakeFiles/substats.dir/src/ui/window.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/ui/window_helpers.cc.o -c /home/user/code/subrating/src/ui/window_helpers.cc",
+  "file": "/home/user/code/subrating/src/ui/window_helpers.cc",
+  "output": "CMakeFiles/substats.dir/src/ui/window_helpers.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/ui/sub_form_window.cc.o -c /home/user/code/subrating/src/ui/sub_form_window.cc",
+  "file": "/home/user/code/subrating/src/ui/sub_form_window.cc",
+  "output": "CMakeFiles/substats.dir/src/ui/sub_form_window.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/ui/input_manager.cc.o -c /home/user/code/subrating/src/ui/input_manager.cc",
+  "file": "/home/user/code/subrating/src/ui/input_manager.cc",
+  "output": "CMakeFiles/substats.dir/src/ui/input_manager.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/ui/view_window.cc.o -c /home/user/code/subrating/src/ui/view_window.cc",
+  "file": "/home/user/code/subrating/src/ui/view_window.cc",
+  "output": "CMakeFiles/substats.dir/src/ui/view_window.cc.o"
+},
+{
+  "directory": "/home/user/code/subrating/build",
+  "command": "/usr/bin/c++  -I/home/user/code/subrating/include -g -std=gnu++20 -o CMakeFiles/substats.dir/src/utils/file_utils.cc.o -c /home/user/code/subrating/src/utils/file_utils.cc",
+  "file": "/home/user/code/subrating/src/utils/file_utils.cc",
+  "output": "CMakeFiles/substats.dir/src/utils/file_utils.cc.o"
+}
+]
